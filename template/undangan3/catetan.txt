@@ -1,0 +1,9 @@
+Mengubah background gambar atas pada Style.css line 308
+Ubah Background style.css di line 414
+Ubah Background ke 2 di style.css line 476
+Ubah Background ke 3 di boostrap.min.css line 57
+Ubah Background ke 4 di Main.css line 666
+
+Proses mengedit tampilan gambar slider pada index.html line 303
+
+Edit konten undangan nikahan pada CSS Line 556 HTML line 183
